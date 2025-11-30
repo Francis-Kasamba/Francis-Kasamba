@@ -1,5 +1,5 @@
 👋 Hey there! I'm Francis Kasamba <br>
-💻 I'm a software engineer who loves creating things on the web. <br>
+💻 I'm a software engineer who loves creating and building apps. <br>
 🌍 I enjoy building websites that are fast, clean, and user-friendly. <br>
 🚀 I'm always learning and trying out new tech. <br>
 🧠 Big fan of solving problems and writing clean code. <br>
